@@ -75,7 +75,9 @@ article h4 {
 }
 
 span {
-	font-size: 400%;
-	color: #ccc;
-	margin-top: 25%;
+	font-size: 600%;
+	color: #ddd;
+	margin: 3% 1% 5% 0%;
+	float: left;
+	font-weight: normal;
 }
