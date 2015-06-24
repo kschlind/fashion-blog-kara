@@ -21,6 +21,7 @@ h1 {
 	font-weight: normal;
 	font-size: 300%;
 	margin-top: 0%;
+	margin-bottom: 20px;
 }
 
 h2 {
@@ -56,9 +57,12 @@ article {
 
 article h2 {
 	font-size: 210%;
-	color: black;
 	margin-top: 0;
 	margin-bottom: 20px;
+}
+
+article h2 a {
+	color: black;
 }
 
 article h3 {
